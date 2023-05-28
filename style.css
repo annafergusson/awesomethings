@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Roboto+Mono&display=swap');
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  background-color: yellow;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Climate Crisis', cursive;
+}
